@@ -1,6 +1,6 @@
 原版2.1:    http://code.google.com/p/http-scws
 scws主页:   http://www.ftphp.com/scws/index.php
-修改版:     https://github.com/tangfu/http-scws
+修改版:     https://github.com/tangfu/http-scws-plus
 
 差异:
 *.修复原版吐html页面时比较utf8和gbk的错误
